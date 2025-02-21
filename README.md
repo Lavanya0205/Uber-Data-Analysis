@@ -14,6 +14,6 @@ Programming Language: Python
 Libraries:
 Pandas (Data Manipulation)
 NumPy (Numerical Computing)
-Matplotlib, Seaborn, Plotly (Data Visualization)
-Geopandas, Folium (Geospatial Analysis)
-Tools: Jupyter Notebook, Google Colab
+Matplotlib, Seaborn (Data Visualization)
+
+Tools: Jupyter Notebook
